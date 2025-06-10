@@ -1,0 +1,56 @@
+.contenedor {
+    padding-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: space-around;
+    flex-direction: row;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid gray;
+    letter-spacing: 1px;
+    font-size: 0.7rem;
+    background-color: aliceblue;
+    display: flex;
+}
+
+.tabla1 {
+    margin: 10px;
+}
+.tabla2 {
+    margin: 10px;
+}
+.tabla3 {
+    margin: 10px;
+}
+.tabla4 {
+    margin: 10px;
+}
+.tabla5 {
+    margin: 10px;
+}
+.tabla6 {
+    margin: 10px;
+}
+
+th {
+    text-align: left;
+    border: 1px solid gray;
+    padding: 10px;
+    background-color: rgb(189, 186, 186);
+}
+
+td {
+    border: 1px solid gray;
+}
+
+h2 {
+    margin: 0;
+    padding: 20px;
+}
+
+tr:hover {
+    background-color: rgb(204, 204, 204);
+}
