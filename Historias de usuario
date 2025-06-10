@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historias de Usuario</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style2.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <!-- El que tiene el clase active es donde estás parado y te ayuda a darle estilo especial -->
+                <li><a href="index.html">Home</a></li>
+                <li><a class="active" href="Historias de usuario.html">Historias de Usuario</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="contenedor">
+
+        <!-- Estas son las tabla -->
+
+        <table class="tabla1">
+            <!-- Colgroup es para ponerle estilo a las columnas -->
+            <colgroup>
+                <col>
+                <col>
+                <col>
+            </colgroup>
+
+            <!-- Estos son los títulos/cabeceras de la tabla -->
+            <th>Nombre: HU1</th>
+            <th>Busqueda de destinos turisticos</th>
+
+            <!-- Acá van "fila a fila" cada "entrada" de la tabla -->
+            <tr>
+                <td>Usuario:</td>
+                <td>Turista</td>
+
+            </tr>
+            <tr>
+                <td>Prioridad: 5</td>
+                <td>Puntos Estimados: 2</td>
+
+            </tr>
+            <tr>
+                <td>Descripción:</td>
+                <td>Quiero poder buscar destinos por nombre, categoria o region</td>
+
+            </tr>
+            <tr>
+                <td>Observaciones:</td>
+                <td>Quiero tomar desiciones informadas sobre mi visita</td>
+
+            </tr>
+            <tr>
+                <td>Criterios de aceptación:</td>
+                <td>Se muestran descripciones, fotos, tarifas, horarios</td>
+
+            </tr>
+        </table>
+
+        <table class="tabla2">
+            <!-- Colgroup es para ponerle estilo a las columnas -->
+            <colgroup>
+                <col>
+                <col>
+                <col>
+            </colgroup>
+
+            <!-- Estos son los títulos/cabeceras de la tabla -->
+            <th>Nombre: HU2</th>
+            <th>Busqueda de destinos turisticos</th>
+
+            <!-- Acá van "fila a fila" cada "entrada" de la tabla -->
+            <tr>
+                <td>Usuario:</td>
+                <td>Turista</td>
+
+            </tr>
+            <tr>
+                <td>Prioridad: 5</td>
+                <td>Puntos Estimados: 2</td>
+
+            </tr>
+            <tr>
+                <td>Descripción:</td>
+                <td>Quiero poder buscar destinos por nombre, categoria o region</td>
+
+            </tr>
+            <tr>
+                <td>Observaciones:</td>
+                <td>Quiero tomar desiciones informadas sobre mi visita</td>
+
+            </tr>
+            <tr>
+                <td>Criterios de aceptación:</td>
+                <td>Se muestran descripciones, fotos, tarifas, horarios</td>
+
+            </tr>
+        </table>
+
+
+        <table class="tabla3">
+            <!-- Colgroup es para ponerle estilo a las columnas -->
+            <colgroup>
+                <col>
+                <col>
+                <col>
+            </colgroup>
+
+            <!-- Estos son los títulos/cabeceras de la tabla -->
+            <th>Nombre: HU1</th>
+            <th>Busqueda de destinos turisticos</th>
+
+            <!-- Acá van "fila a fila" cada "entrada" de la tabla -->
+            <tr>
+                <td>Usuario:</td>
+                <td>Turista</td>
+
+            </tr>
+            <tr>
+                <td>Prioridad: 5</td>
+                <td>Puntos Estimados: 2</td>
+
+            </tr>
+            <tr>
+                <td>Descripción:</td>
+                <td>Quiero poder buscar destinos por nombre, categoria o region</td>
+
+            </tr>
+            <tr>
+                <td>Observaciones:</td>
+                <td>Quiero tomar desiciones informadas sobre mi visita</td>
+
+            </tr>
+            <tr>
+                <td>Criterios de aceptación:</td>
+                <td>Se muestran descripciones, fotos, tarifas, horarios</td>
+
+            </tr>
+        </table>
+
+
+        <table class="tabla4">
+            <!-- Colgroup es para ponerle estilo a las columnas -->
+            <colgroup>
+                <col>
+                <col>
+                <col>
+            </colgroup>
+
+            <!-- Estos son los títulos/cabeceras de la tabla -->
+            <th>Nombre: HU1</th>
+            <th>Busqueda de destinos turisticos</th>
+
+            <!-- Acá van "fila a fila" cada "entrada" de la tabla -->
+            <tr>
+                <td>Usuario:</td>
+                <td>Turista</td>
+
+            </tr>
+            <tr>
+                <td>Prioridad: 5</td>
+                <td>Puntos Estimados: 2</td>
+
+            </tr>
+            <tr>
+                <td>Descripción:</td>
+                <td>Quiero poder buscar destinos por nombre, categoria o region</td>
+
+            </tr>
+            <tr>
+                <td>Observaciones:</td>
+                <td>Quiero tomar desiciones informadas sobre mi visita</td>
+
+            </tr>
+            <tr>
+                <td>Criterios de aceptación:</td>
+                <td>Se muestran descripciones, fotos, tarifas, horarios</td>
+
+            </tr>
+        </table>
+
+
+        <table class="tabla5">
+            <!-- Colgroup es para ponerle estilo a las columnas -->
+            <colgroup>
+                <col>
+                <col>
+                <col>
+            </colgroup>
+
+            <!-- Estos son los títulos/cabeceras de la tabla -->
+            <th>Nombre: HU1</th>
+            <th>Busqueda de destinos turisticos</th>
+
+            <!-- Acá van "fila a fila" cada "entrada" de la tabla -->
+            <tr>
+                <td>Usuario:</td>
+                <td>Turista</td>
+
+            </tr>
+            <tr>
+                <td>Prioridad: 5</td>
+                <td>Puntos Estimados: 2</td>
+
+            </tr>
+            <tr>
+                <td>Descripción:</td>
+                <td>Quiero poder buscar destinos por nombre, categoria o region</td>
+
+            </tr>
+            <tr>
+                <td>Observaciones:</td>
+                <td>Quiero tomar desiciones informadas sobre mi visita</td>
+
+            </tr>
+            <tr>
+                <td>Criterios de aceptación:</td>
+                <td>Se muestran descripciones, fotos, tarifas, horarios</td>
+
+            </tr>
+        </table>
+
+
+        <table class="tabla6">
+            <!-- Colgroup es para ponerle estilo a las columnas -->
+            <colgroup>
+                <col>
+                <col>
+                <col>
+            </colgroup>
+
+            <!-- Estos son los títulos/cabeceras de la tabla -->
+            <th>Nombre: HU1</th>
+            <th>Busqueda de destinos turisticos</th>
+
+            <!-- Acá van "fila a fila" cada "entrada" de la tabla -->
+            <tr>
+                <td>Usuario:</td>
+                <td>Turista</td>
+
+            </tr>
+            <tr>
+                <td>Prioridad: 5</td>
+                <td>Puntos Estimados: 2</td>
+
+            </tr>
+            <tr>
+                <td>Descripción:</td>
+                <td>Quiero poder buscar destinos por nombre, categoria o region</td>
+
+            </tr>
+            <tr>
+                <td>Observaciones:</td>
+                <td>Quiero tomar desiciones informadas sobre mi visita</td>
+
+            </tr>
+            <tr>
+                <td>Criterios de aceptación:</td>
+                <td>Se muestran descripciones, fotos, tarifas, horarios</td>
+
+            </tr>
+        </table>
+    </div>
+</body>
+
+</html>
